@@ -1,0 +1,6 @@
+﻿  FaceRecognitionDlg.cpp
+FaceRecognitionDlg.cpp(326): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+FaceRecognitionDlg.cpp(335): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  FaceRecognition.vcxproj -> E:\2016-2017\Nien luan CNTT\Projects\FaceRecognition\x64\Release\FaceRecognition.exe
